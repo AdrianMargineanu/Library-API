@@ -1,10 +1,9 @@
 
-Margineanu Adrian grupa 323-CB
+Margineanu Adrian 
 REST API  11/05/2020
 --------------
 README
 --------------
-Pentru rezolvarea acestei teme am folosit scheletul din laboratorul 10 ,"Protocolul HTTP".
 Fisier request.c contine functiile ce creaza un anumit tip de request are este transmit catre server.
 Conexinea este reinnoita inainte de trimiterea unei noi comezi.
 Pentru a interpreta mesajele json am utilizat libraria "Parson.h", Deoarece fucntiile ce se pot gasi 
@@ -15,4 +14,4 @@ pentru a vedea mesajele transmise si primite de la server.
 -------------
 AUTHORS
 -------------
-Copyright 2020 Mărgineanu Adrian grupa 323CB. All copyrights reserved.
+Copyright 2020 Mărgineanu Adrian. All copyrights reserved.
